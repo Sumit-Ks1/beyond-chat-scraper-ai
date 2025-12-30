@@ -1,0 +1,19 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "Utility scripts for scraping and article enhancement",
+  "type": "module",
+  "scripts": {
+    "scrape": "node src/scraper.js",
+    "enhance": "node src/enhancer.js",
+    "enhance:all": "node src/enhanceAll.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "groq-sdk": "^0.3.2",
+    "mongoose": "^8.0.3",
+    "puppeteer": "^21.6.1"
+  }
+}
