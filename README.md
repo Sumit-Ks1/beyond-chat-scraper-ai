@@ -424,8 +424,8 @@ PHASE 3: DISPLAY
 
 ## 🌐 Live Demo
 
-- **Frontend**: [https://beyondchat-frontend.vercel.app](https://beyondchat-frontend.vercel.app) *(deploy and update link)*
-- **Backend API**: [https://beyondchat-api.onrender.com](https://beyondchat-api.onrender.com) *(deploy and update link)*
+- **Frontend**: [[https://beyondchat-frontend.vercel.app](https://beyond-chat-scraper-ai.vercel.app/)] *(deploy and update link)*
+
 
 
 
